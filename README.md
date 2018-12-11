@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a big ol bitch' description of something that needed to be described.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It does everything. And nothing. It is what it is.
 
 ## Getting started
 
